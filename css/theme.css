@@ -12,9 +12,3 @@ body {
 .theme-showcase > p > .btn {
   margin: 5px 0;
 }
-
-#map_canvas {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
